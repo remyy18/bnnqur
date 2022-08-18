@@ -3,7 +3,7 @@
 <?= $this->section('page-content'); ?>
 <div class="container-fluid">
 
-    <h1 class="h3 mb-4 text-gray-800 text-center">BANK DATA NARKOTIKA NASIONAL KOTA BANDA ACEH</h1>
+    <h1 class="h3 mb-4 text-gray-800 text-center">BANK DATA BADAN NARKOTIKA NASIONAL KOTA BANDA ACEH</h1>
 
 <div class="card" style="width: 500px;">
         <div class="card-body text-center">
