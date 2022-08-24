@@ -125,8 +125,27 @@
         <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#accordionSidebar">
             <div class="bg-white py-2 collapse-inner rounded">
                 <h6 class="collapse-header">Data:</h6>
-                <a class="collapse-item" href="utilities-color.html">Tersangka</a>
-                <a class="collapse-item" href="utilities-border.html">Barang Bukti</a>
+                <a class="collapse-item" href="utilities-color.html">Kasus yang Diungkap</a>
+                <a class="collapse-item" href="utilities-border.html">Tersangka</a>
+                <a class="collapse-item" href="utilities-border.html">BB Narkotika</a>
+            </div>
+        </div>
+    </li>
+
+    <!-- Nav Item - Seksi Kinerja-->
+    <li class="nav-item">
+        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapse4" aria-expanded="true"
+            aria-controls="collapse4">
+            <i class="fas fa-fw fa-wrench"></i>
+            <span>Kinerja</span>
+        </a>
+        <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#accordionSidebar">
+            <div class="bg-white py-2 collapse-inner rounded">
+                <h6 class="collapse-header">Data:</h6>
+                <a class="collapse-item" href="utilities-color.html">Anggaran</a>
+                <a class="collapse-item" href="utilities-border.html">Capaian Program</a>
+                <a class="collapse-item" href="utilities-border.html">Trobosan</a>
+                <a class="collapse-item" href="utilities-border.html">Inpres</a>
             </div>
         </div>
     </li>
