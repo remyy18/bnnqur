@@ -134,12 +134,12 @@
 
     <!-- Nav Item - Seksi Kinerja-->
     <li class="nav-item">
-        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapse4" aria-expanded="true"
-            aria-controls="collapse4">
+        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapse5" aria-expanded="true"
+            aria-controls="collapse5">
             <i class="fas fa-fw fa-wrench"></i>
             <span>Kinerja</span>
         </a>
-        <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#accordionSidebar">
+        <div id="collapse5" class="collapse" aria-labelledby="heading5" data-parent="#accordionSidebar">
             <div class="bg-white py-2 collapse-inner rounded">
                 <h6 class="collapse-header">Data:</h6>
                 <a class="collapse-item" href="utilities-color.html">Anggaran</a>
