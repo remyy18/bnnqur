@@ -59,10 +59,15 @@
         <div id="collapse1" class="collapse" aria-labelledby="heading1" data-parent="#accordionSidebar">
             <div class="bg-white py-2 collapse-inner rounded">
                 <h6 class="collapse-header">Data:</h6>
+                <a class="collapse-item" href="utilities-color.html">Kepala Sub Bagian Umum</a>
                 <a class="collapse-item" href="utilities-color.html">Surat Masuk</a>
                 <a class="collapse-item" href="utilities-border.html">Surat Keluar</a>
                 <a class="collapse-item" href="utilities-animation.html">Sprint</a>
-                <a class="collapse-item" href="utilities-other.html">MOU</a>
+                <a class="collapse-item" href="utilities-other.html">MOU / PKS</a>
+                <a class="collapse-item" href="utilities-other.html">Daftar Cuti Pegawai</a>
+                <a class="collapse-item" href="utilities-other.html">Daftar Tamu</a>
+                <a class="collapse-item" href="utilities-other.html">Hasil Survey</a>
+                <a class="collapse-item" href="utilities-other.html">Layanan Lapor</a>
             </div>
         </div>
     </li>
