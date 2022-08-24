@@ -28,7 +28,7 @@
             <div class="bg-white py-2 collapse-inner rounded">
                 <h6 class="collapse-header">Profil Perusahaan</h6>
                 <a class="collapse-item" href="buttons.html">Sejarah Perusahaan</a>
-                <a class="collapse-item" href="cards.html">Visi Misi</a>
+                <a class="collapse-item" href="?page=visi.php">Visi Misi</a>
                 <a class="collapse-item" href="cards.html">Kepala Masa ke Masa</a>
                 <a class="collapse-item" href="cards.html">Struktur Organisasi</a>
                 <a class="collapse-item" href="cards.html">DUK</a>
