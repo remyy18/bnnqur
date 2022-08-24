@@ -29,6 +29,14 @@
                 <h6 class="collapse-header">Profil Perusahaan</h6>
                 <a class="collapse-item" href="buttons.html">Sejarah Perusahaan</a>
                 <a class="collapse-item" href="cards.html">Visi Misi</a>
+                <a class="collapse-item" href="cards.html">Kepala Masa ke Masa</a>
+                <a class="collapse-item" href="cards.html">Struktur Organisasi</a>
+                <a class="collapse-item" href="cards.html">DUK</a>
+                <a class="collapse-item" href="cards.html">DSP</a>
+                <a class="collapse-item" href="cards.html">Daftar Pegawai</a>
+                <a class="collapse-item" href="cards.html">P3K</a>
+                <a class="collapse-item" href="cards.html">PPNPN</a>
+                <a class="collapse-item" href="cards.html">Sarana dan Prasarana</a>
             </div>
         </div>
     </li>
