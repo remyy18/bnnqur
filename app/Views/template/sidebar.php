@@ -81,11 +81,14 @@
         </a>
         <div id="collapse2" class="collapse" aria-labelledby="heading2" data-parent="#accordionSidebar">
             <div class="bg-white py-2 collapse-inner rounded">
-                <h6 class="collapse-header">Data:</h6>
+                <h6 class="collapse-header">Pencegahan:</h6>
                 <a class="collapse-item" href="utilities-color.html">Desa Bersinar</a>
-                <a class="collapse-item" href="utilities-border.html">Ketahanan</a>
-                <a class="collapse-item" href="utilities-animation.html">Penyuluhan</a>
-                <a class="collapse-item" href="utilities-other.html">Relawan</a>
+                <a class="collapse-item" href="utilities-border.html">Ketahanan Keluarga</a>
+                <a class="collapse-item" href="utilities-animation.html">Remaja Teman Sebaya</a>
+                <a class="collapse-item" href="utilities-other.html">KIE</a>
+                <h6 class="collapse-header">Pemberdayaan Masyarakat:</h6>
+                <a class="collapse-item" href="utilities-other.html">IKOTAN</a>
+                <a class="collapse-item" href="utilities-other.html">Penggiat</a>
                 <a class="collapse-item" href="utilities-other.html">Tes Urin</a>
             </div>
         </div>
