@@ -3,7 +3,7 @@
     <!-- Sidebar - Brand -->
     <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
         <div class="sidebar-brand-icon rotate-n-0">
-            <img class="rectangle" src="assets/img/Logo_BNN.PNG" height="40" width="40" />
+        <img class="img-profile rounded-circle" src="<?= base_url(); ?>/img/Logo_BNN.PNG" height="55" widht="55">
         </div>
         <div class="sidebar-brand-text mx-3">BNN</div>
     </a>
